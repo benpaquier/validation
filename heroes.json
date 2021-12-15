@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Iron man",
+    "color": "red",
+    "email": "ironman@gmail.com",
+    "team": "good"
+  },
+  {
+    "name": "Batman",
+    "color": "black",
+    "email": "batman@gmail.com",
+    "team": "bad"
+  }
+]
